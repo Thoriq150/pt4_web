@@ -60,4 +60,13 @@
 ### hasil
 ![Screenshot (182)](https://github.com/Thoriq150/pt4_web/assets/115950790/e69c1d38-6147-4729-a155-7818ba1d0127)
 
+### 2
+![Screenshot (184)](https://github.com/Thoriq150/pt4_web/assets/115950790/e9e9992c-5859-413d-8252-aa76d850cd1a)
+
+### css
+![Screenshot (185)](https://github.com/Thoriq150/pt4_web/assets/115950790/a4110061-1338-4c48-a59e-353d7b117c84)
+
+### hasil
+![Screenshot (186)](https://github.com/Thoriq150/pt4_web/assets/115950790/6b7cfb76-9432-4814-aa8c-b00be01fab9b)
+
 
