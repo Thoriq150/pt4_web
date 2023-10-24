@@ -32,5 +32,12 @@
 ![Screenshot (167)](https://github.com/Thoriq150/pt4_web/assets/115950790/3084a6a7-e5ff-4bb1-9877-c4316aa681bc)
 #### hasil
 ![Screenshot (166)](https://github.com/Thoriq150/pt4_web/assets/115950790/e12874e1-a401-4949-b35f-7b78e69b49a4)
+#### 5.atur layout main sidebar pada file css
+![Screenshot (169)](https://github.com/Thoriq150/pt4_web/assets/115950790/89994df6-cfa2-41c5-bb4d-5153d52553eb)
+#### 6.buatlah sidebar widget
+![Screenshot (171)](https://github.com/Thoriq150/pt4_web/assets/115950790/57b9d656-52c2-468c-84d3-221ce993c013)
+![Screenshot (172)](https://github.com/Thoriq150/pt4_web/assets/115950790/7692d12f-1725-477e-9966-37f6c04b9bc7)
+#### hasil
+![Screenshot (173)](https://github.com/Thoriq150/pt4_web/assets/115950790/c26cb3a5-a879-4a57-8a85-df3af7d36542)
 
 
