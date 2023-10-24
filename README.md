@@ -52,4 +52,12 @@
 #### hasil
 ![Screenshot (179)](https://github.com/Thoriq150/pt4_web/assets/115950790/03dad4ee-ea8a-442d-8124-ae3fa8ded432)
 
+## SOAL
+### 1
+![Screenshot (181)](https://github.com/Thoriq150/pt4_web/assets/115950790/26d0b837-dd63-49a5-b0c6-81ff0a3ebb04)
+### css
+![Screenshot (183)](https://github.com/Thoriq150/pt4_web/assets/115950790/2db6aea8-1494-40fc-b472-878291dea573)
+### hasil
+![Screenshot (182)](https://github.com/Thoriq150/pt4_web/assets/115950790/e69c1d38-6147-4729-a155-7818ba1d0127)
+
 
