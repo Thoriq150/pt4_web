@@ -15,5 +15,11 @@
 ![Screenshot (159)](https://github.com/Thoriq150/pt4_web/assets/115950790/47f0f728-f133-40aa-a4e4-c3a252472947)
 
 ## Membuat Layout
-#### buatlah kode awal sesuai dengan kerangka
-
+#### buatlah kode awal sesuai dengan kerangkanya
+![Screenshot (161)](https://github.com/Thoriq150/pt4_web/assets/115950790/9efeab08-6d8c-40e9-8f70-e64d29c22e1a)
+#### hasil
+![Screenshot (160)](https://github.com/Thoriq150/pt4_web/assets/115950790/57ee7156-886c-45c7-ae5e-f34bc92c9eea)
+#### Tambahkan file css untuk layoutnya
+![Screenshot (162)](https://github.com/Thoriq150/pt4_web/assets/115950790/dd146a1c-bb7e-4443-982f-9c2d705b6b52)
+#### hasil
+![Screenshot (163)](https://github.com/Thoriq150/pt4_web/assets/115950790/a9068631-3853-407b-ae03-0a738c369a18)
