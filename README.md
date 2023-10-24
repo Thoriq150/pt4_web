@@ -39,5 +39,17 @@
 ![Screenshot (172)](https://github.com/Thoriq150/pt4_web/assets/115950790/7692d12f-1725-477e-9966-37f6c04b9bc7)
 #### hasil
 ![Screenshot (173)](https://github.com/Thoriq150/pt4_web/assets/115950790/c26cb3a5-a879-4a57-8a85-df3af7d36542)
+#### 7.atur footer lalu tambahkan element lain pada main content
+![Screenshot (174)](https://github.com/Thoriq150/pt4_web/assets/115950790/de5ef775-9be5-461a-b5db-b3c642505f6b)
+![Screenshot (175)](https://github.com/Thoriq150/pt4_web/assets/115950790/b7cca133-984e-4fa4-a6f4-470d6cd4e4e6)
+![Screenshot (176)](https://github.com/Thoriq150/pt4_web/assets/115950790/b3c9dd36-d6c3-4ee9-b3e4-54d8d6b9f7bb)
+#### hasil
+![Screenshot (177)](https://github.com/Thoriq150/pt4_web/assets/115950790/bb267247-afc2-4b36-a29c-51032f6107bb)
+#### 8. lalu tambah content artikel
+![Screenshot (180)](https://github.com/Thoriq150/pt4_web/assets/115950790/f7f44162-097a-49ae-8afc-4ae3ab9c6801)
+#### cssnya
+![Screenshot (178)](https://github.com/Thoriq150/pt4_web/assets/115950790/5635b8ce-1a3b-4404-b37b-0f805c762b08)
+#### hasil
+![Screenshot (179)](https://github.com/Thoriq150/pt4_web/assets/115950790/03dad4ee-ea8a-442d-8124-ae3fa8ded432)
 
 
